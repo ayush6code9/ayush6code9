@@ -1,7 +1,7 @@
 <H1 align="center"> Hi , I'm AYUSH KUMAR SINGH  <H1 align="center">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Business+Analyst+%7C+Product+Manager;Transforming+Data+into+Business+Impact;Building+Products+That+Solve+Real+Problems;Success+Needs+Sacrifice" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Business+Analyst+%7C+Product+Manager;Transforming+Data+into+Business+Impact;Building+Products+That+Solve+Real+Problems;Success+Needs+Sacrifice" alt="Typing SVG" />
 </div>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
